@@ -36,3 +36,6 @@
    | ![rising](up.png) | 0 | 1 | 1 | No change |
    | ![rising](up.png) | 1 | 0 | 1 | Toggle (=invert) |
    | ![rising](up.png) | 1 | 1 | 0 | Toggle (=invert) |
+   
+   
+   # D latch
