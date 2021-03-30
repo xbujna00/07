@@ -1,6 +1,8 @@
 # # Lab. work 07 - Latches and Flip-flops
 # Preparation tasks
 
+![eqa](eqa.png)
+
 | **clk** | **d** | **q(n)** | **q(n+1)** | **Comments** |
    | :-: | :-: | :-: | :-: | :-- |
    | ![rising](up.png) | 0 | 0 | 0 | Sampled and stored |
