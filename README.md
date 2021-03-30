@@ -39,3 +39,14 @@
    
    
    # D latch
+   ### Task of VHDL code listing of the process p_d_latch with syntax highlighting ☻
+   ```vhdl 
+   entity d_latch is
+    Port ( en : in STD_LOGIC;
+           arst : in STD_LOGIC;
+           d : in STD_LOGIC;
+           q : out STD_LOGIC;
+           q_bar : out STD_LOGIC);
+end d_latch;
+
+   ```
