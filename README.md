@@ -3,7 +3,7 @@
 
 | **clk** | **d** | **q(n)** | **q(n+1)** | **Comments** |
    | :-: | :-: | :-: | :-: | :-- |
-   | ![rising](images/up.png) | 0 | 0 | 0 | Sampled and stored |
+   | ![up](images/up.png) | 0 | 0 | 0 | Sampled and stored |
    | ![rising](images/up.png) | 0 | 1 | 0 | Sampled and stored |
    | ![rising](images/up.png) | 1 | 0 | 1 | Sampled and stored |
    | ![rising](images/up.png) | 1 | 1 | 1 | Sampled and stored |
