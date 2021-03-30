@@ -2,6 +2,10 @@
 # Preparation tasks
 
 Characteric equations and truth tables for D,JK,T flip-flops
+
+
+
+
 ![eqa](eqa.png)
 
 | **clk** | **d** | **q(n)** | **q(n+1)** | **Comments** |
