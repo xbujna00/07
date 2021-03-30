@@ -1,4 +1,4 @@
-# # Lab. work 07 - Latches and Flip-flops
+### Lab. work 07 - Latches and Flip-flops
 # Preparation tasks
 
 Characteric equations and truth tables for D,JK,T flip-flops
