@@ -174,3 +174,5 @@ begin
 end process p_stimulus;
    
    ```
+   # Graph screenshot of simulated time waveforms 
+   ![graph](graph07.png)
